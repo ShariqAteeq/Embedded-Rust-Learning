@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/shariq/Desktop/discovery-master/target/thumbv7em-none-eabihf/debug/build/stm32f30x-84eea56d677ac09f/out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

@@ -1,0 +1,1 @@
+{"rustc":1240946752080948661,"features":"","target":0,"profile":0,"path":0,"deps":[[3607087031782722841,"build_script_build",false,3669823674542240291]],"local":[{"RerunIfChanged":{"output":"debug/build/stm32f30x-da5ed2a8642ee7f0/output","paths":["device.x","build.rs"]}}],"rustflags":[],"metadata":0}

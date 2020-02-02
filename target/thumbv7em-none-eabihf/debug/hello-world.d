@@ -1,0 +1,1 @@
+/home/shariq/Desktop/discovery-master/target/thumbv7em-none-eabihf/debug/hello-world: /home/shariq/Desktop/discovery-master/src/06-hello-world/auxiliary/src/lib.rs /home/shariq/Desktop/discovery-master/src/06-hello-world/src/main.rs

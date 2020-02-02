@@ -1,0 +1,1 @@
+/home/shariq/Desktop/discovery-master/target/thumbv7em-none-eabihf/debug/registers: /home/shariq/Desktop/discovery-master/src/07-registers/auxiliary/src/lib.rs /home/shariq/Desktop/discovery-master/src/07-registers/src/main.rs

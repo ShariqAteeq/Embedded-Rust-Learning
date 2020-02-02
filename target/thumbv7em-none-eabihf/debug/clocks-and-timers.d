@@ -1,0 +1,1 @@
+/home/shariq/Desktop/discovery-master/target/thumbv7em-none-eabihf/debug/clocks-and-timers: /home/shariq/Desktop/discovery-master/src/09-clocks-and-timers/auxiliary/src/lib.rs /home/shariq/Desktop/discovery-master/src/09-clocks-and-timers/src/main.rs

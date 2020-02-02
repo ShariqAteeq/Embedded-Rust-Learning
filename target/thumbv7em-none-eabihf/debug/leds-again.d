@@ -1,0 +1,1 @@
+/home/shariq/Desktop/discovery-master/target/thumbv7em-none-eabihf/debug/leds-again: /home/shariq/Desktop/discovery-master/src/08-leds-again/auxiliary/src/lib.rs /home/shariq/Desktop/discovery-master/src/08-leds-again/src/main.rs
