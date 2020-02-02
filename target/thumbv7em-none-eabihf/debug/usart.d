@@ -1,0 +1,1 @@
+/home/shariq/Desktop/Embedded-Rust/Embedded-Rust-Learning/target/thumbv7em-none-eabihf/debug/usart: /home/shariq/Desktop/Embedded-Rust/Embedded-Rust-Learning/src/11-usart/auxiliary/src/lib.rs /home/shariq/Desktop/Embedded-Rust/Embedded-Rust-Learning/src/11-usart/src/main.rs
